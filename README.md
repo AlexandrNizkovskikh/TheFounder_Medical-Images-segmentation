@@ -1,4 +1,16 @@
 # Medical-Images-segmentation
+
+## Технологический стек
+
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=for-the-badge)
+![Albumentations](https://img.shields.io/badge/-Albumentations-00A1F1?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-3776AB?logo=opencv&logoColor=white&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?logo=python&logoColor=white&style=for-the-badge)
+
+
 `Цель проекта:`
 Разработка и реализация методов аугментации изображений здоровых лёгких для увеличения разнообразия и объёма данных, с последующим использованием этих данных для обучения моделей сегментации. Это позволит улучшить качество предсказаний и повысить надёжность анализа медицинских изображений.
 
